@@ -31,6 +31,9 @@ Tengo experiencia manejando el ciclo completo de desarrollo: puedo construir des
 **Herramientas & Entorno**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ---
 
@@ -43,11 +46,11 @@ Tengo experiencia manejando el ciclo completo de desarrollo: puedo construir des
 ---
 
 ### 📊 Estadísticas de GitHub
-*(Nota: Estas tarjetas se actualizarán automáticamente con tu actividad)*
+*(Nota: Si las imágenes no cargan en la vista previa, suele ser temporal por el servidor de la API de estadísticas. En tu perfil publicado deberían visualizarse correctamente)*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mquisped23&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mquisped23&layout=compact&theme=radium"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mquisped23&show_icons=true&theme=radium&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mquisped23&layout=compact&theme=radium" alt="Lenguajes más usados" />
 </div>
 
 ---
